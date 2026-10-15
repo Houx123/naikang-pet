@@ -1,0 +1,10 @@
+.DS_Store
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.swift-module-cache/
+.derived-data/
+.device-derived-data/
+.module-cache/
+*.app/
+

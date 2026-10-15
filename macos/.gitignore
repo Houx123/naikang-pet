@@ -1,0 +1,6 @@
+.DS_Store
+.module-cache/
+*.app/
+protocol/
+dist/*/
+
